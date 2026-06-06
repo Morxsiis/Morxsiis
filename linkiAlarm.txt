@@ -1,0 +1,9 @@
+linki
+
+kod projektu: 
+https://github.com/Morxsiis/Morxsiis/blob/main/alarm.ino
+
+dokumentacja pdf'; https://github.com/Morxsiis/Morxsiis/blob/main/System_Alarmowy_Dokumentacja_kuczkowska_21478.pdf
+
+symulacja w tinkercad: 
+https://www.tinkercad.com/things/lqeJkh4IILU-projekt-alarmu-arduino?sharecode=6Jw39pxRjB3MoHThlrZ4VPp-aBkACrp6Yqr00G6VdA8
